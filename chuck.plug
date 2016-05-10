@@ -1,0 +1,9 @@
+[Core]
+Name = chuck
+Module = chuck
+
+[Documentation]
+Description = chuck Norris jokes ?
+
+[Python]
+Version=2
